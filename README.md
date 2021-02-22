@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**nuryetim/nuryetim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm a iOS Developer working in Eskisehir, Turkey.
+My personal website https://nuryetim.com/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+• 🏢 I'm currently working at heysimple.co
+• 🌍 I'm organizer of Google Developer Groups
+• 🌍 I’m organizer of Women Techmakers
+• 📫 How to reach me: 
+https://www.linkedin.com/in/nuryetim/
+https://twitter.com/nuryetimm
+https://www.instagram.com/nuryeetim/
+
+
+
