@@ -2,7 +2,7 @@
 
 
 I'm a iOS Developer working in Eskisehir, Turkey.
-My personal website https://nuryetim.com/
+- My personal website https://nuryetim.com/
 
 
 - 🏢 I'm currently working at heysimple.co
