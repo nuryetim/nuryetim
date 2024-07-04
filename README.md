@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I'm a iOS Developer working in Eskisehir, Turkey.
+I specialize as a Business Analyst based in Istanbul, Turkey
 
 - 🌍 I'm organizer of Google Developer Groups
 - 🌍 I’m organizer of Women Techmakers
